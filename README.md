@@ -9,5 +9,3 @@ I learnt making this application from a course on www.appbrewery.co which is als
 ### :fire: My Stats :
 
 https://github-readme-streak-stats.herokuapp.com/[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)=VB-1405
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
